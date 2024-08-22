@@ -1,0 +1,2025 @@
+[
+  {
+    "rating": "4.8",
+    "reviews": "33",
+    "categories": "Burger, Fleisch, Vegan, Event Deal",
+    "price_range": 2,
+    "address": "1060 Wien Mariahilfer Straße 127",
+    "url": "https://neotaste.com/de/restaurants/vienna/peter-pane-burgergrill-bar-mariahilfer-strasse-127",
+    "name": "Peter Pane Burgergrill Bar Mariahilfer Strasse 127"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Fleisch, Burger, Seafood, Event Deal",
+    "price_range": 2,
+    "address": "1060 Wien Marchettigasse 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/minirestaurant",
+    "name": "Minirestaurant"
+  },
+  {
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1010 Wien Universitätsring 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-universitaetsring",
+    "name": "Swing Kitchen Universitaetsring"
+  },
+  {
+    "categories": "Café, Drinks, Healthy, Frühstück",
+    "price_range": 3,
+    "address": "1010 Wien Hoher Markt 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/joma",
+    "name": "Joma"
+  },
+  {
+    "categories": "Drinks, Fleisch, Seafood",
+    "price_range": 2,
+    "address": "Jakov-Lind-Straße Wien Austria Campus",
+    "url": "https://neotaste.com/de/restaurants/vienna/darose-vienna",
+    "name": "Darose Vienna"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "6",
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 1B, 1030 Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-wien-mitte",
+    "name": "Fat Monk Wien Mitte"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Pizza, Frühstück",
+    "price_range": 2,
+    "address": "1090 Wien Alserbachstraße 33/2",
+    "url": "https://neotaste.com/de/restaurants/vienna/wolke-pizza-brunch",
+    "name": "Wolke Pizza Brunch"
+  },
+  {
+    "categories": "Sushi, Asiatisch, Seafood",
+    "price_range": 2,
+    "address": "1060 Wien Gumpendorfer Str. 9",
+    "url": "https://neotaste.com/de/restaurants/vienna/shanghaitan",
+    "name": "Shanghaitan"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1100 Wien Wienerbergstraße 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-am-wienerberg",
+    "name": "Fat Monk Am Wienerberg"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1010 Wien Schottengasse 9",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-plus-schottengasse",
+    "name": "Zushi Market Plus Schottengasse"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "3",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1010 Wien Herrengasse 6, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-herrengasse",
+    "name": "Vapiano Herrengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "4",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1010 Wien Wien Reichsratsstraße 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/ramen-makotoya-rathaus",
+    "name": "Ramen Makotoya Rathaus"
+  },
+  {
+    "categories": "Burger, Drinks, Bowls",
+    "price_range": 2,
+    "address": "1060 Wien Wien Mariahilfer Str. 31",
+    "url": "https://neotaste.com/de/restaurants/vienna/berliner-babo-mariahilfer-strasse",
+    "name": "Berliner Babo Mariahilfer Strasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Bowls, Healthy",
+    "price_range": 2,
+    "address": "1010 Wien Schottengasse 4",
+    "url": "https://neotaste.com/de/restaurants/vienna/juice-factory-schottentor",
+    "name": "Juice Factory Schottentor"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Dessert, Pizza, Italienisch",
+    "price_range": 1,
+    "address": "1040 Wien Mühlgasse 20/Tür 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/nineofive",
+    "name": "Nineofive"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Fleisch, Asiatisch",
+    "price_range": 2,
+    "address": "1020 Wien Praterstraße 22",
+    "url": "https://neotaste.com/de/restaurants/vienna/shin-taiwanese-eatery",
+    "name": "Shin Taiwanese Eatery"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1030 Wien Hintere Zollamtsstraße 2B",
+    "url": "https://neotaste.com/de/restaurants/vienna/soulkitchen-vienna",
+    "name": "Soulkitchen Vienna"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "4",
+    "categories": "Café, Dessert, Kuchen",
+    "price_range": 1,
+    "address": "1010 Wien Lugeck 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/cro",
+    "name": "Cro"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1010 Wien Laurenzerberg 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/karma-food-am-laurenzerberg-wien",
+    "name": "Karma Food Am Laurenzerberg Wien"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "7",
+    "categories": "Burger, Asiatisch",
+    "price_range": 2,
+    "address": "1060 Wien Theobaldgasse 19",
+    "url": "https://neotaste.com/de/restaurants/vienna/shiso-burger-wien",
+    "name": "Shiso Burger Wien"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "5",
+    "categories": "Drinks, Pizza, Pasta",
+    "price_range": 2,
+    "address": "1010 Wien Universitätsring 14",
+    "url": "https://neotaste.com/de/restaurants/vienna/enzo",
+    "name": "Enzo"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Drinks, Burger",
+    "price_range": 2,
+    "address": "1060 Wien Getreidemarkt 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/addicted-to-rock-bar-burger",
+    "name": "Addicted To Rock Bar Burger"
+  },
+  {
+    "rating": "3.0",
+    "reviews": "1",
+    "categories": "Café, Dessert, Frühstück",
+    "price_range": 2,
+    "address": "1010 Wien Babenbergerstraße 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/sil-coffee-breakfast-more",
+    "name": "Sil Coffee Breakfast More"
+  },
+  {
+    "rating": "3.8",
+    "reviews": "5",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1010 Wien Walfischgasse 11, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-moulin-rouge",
+    "name": "Vapiano Moulin Rouge"
+  },
+  {
+    "categories": "Dessert, Bowls, Healthy",
+    "price_range": 2,
+    "address": "Raimundhof Wien Mariahilfer Straße",
+    "url": "https://neotaste.com/de/restaurants/vienna/superfood-deli-1060",
+    "name": "Superfood Deli 1060"
+  },
+  {
+    "categories": "Bowls, Seafood, Healthy",
+    "price_range": 2,
+    "address": "1020 Wien Vorgartenmarkt 27",
+    "url": "https://neotaste.com/de/restaurants/vienna/the-catch-am-vorgartenmarkt",
+    "name": "The Catch Am Vorgartenmarkt"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1020 Wien Vorgartenstraße 206",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-biz-zwei",
+    "name": "Fat Monk Biz Zwei"
+  },
+  {
+    "categories": "Dessert, Fleisch, Seafood",
+    "price_range": 3,
+    "address": "1030 Wien Ungargasse 53",
+    "url": "https://neotaste.com/de/restaurants/vienna/radici-enogastronomia",
+    "name": "Radici Enogastronomia"
+  },
+  {
+    "categories": "Café, Drinks, Schnell",
+    "price_range": 2,
+    "address": "1010 Wien Stubenring 24",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-milano",
+    "name": "Cafe Milano"
+  },
+  {
+    "categories": "Bowls, Healthy",
+    "price_range": 2,
+    "address": "1010 Wien Schottengasse 4",
+    "url": "https://neotaste.com/de/restaurants/vienna/kalou",
+    "name": "Kalou"
+  },
+  {
+    "categories": "Café",
+    "price_range": 2,
+    "address": "1060 Wien Mariahilfer Str. 45",
+    "url": "https://neotaste.com/de/restaurants/vienna/brot-ist-sexy",
+    "name": "Brot Ist Sexy"
+  },
+  {
+    "categories": "Asiatisch, Vegan",
+    "price_range": 2,
+    "address": "1010 Wien Herrengasse 6/8/11",
+    "url": "https://neotaste.com/de/restaurants/vienna/laolao-grandmas-homemade-dumplings",
+    "name": "Laolao Grandmas Homemade Dumplings"
+  },
+  {
+    "categories": "Café, Dessert, Drinks",
+    "price_range": 2,
+    "address": "1010 Wien Rudolfspl. 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/caffe-baraka",
+    "name": "Caffe Baraka"
+  },
+  {
+    "categories": "Healthy, Orientalisch, Café, Fleisch, Dessert",
+    "price_range": 2,
+    "address": "1010 Wien Färbergasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/faerber",
+    "name": "Faerber"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert, Schnell",
+    "price_range": 2,
+    "address": "1060 Wien Gumpendorfer Str. 38",
+    "url": "https://neotaste.com/de/restaurants/vienna/toasted",
+    "name": "Toasted"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1060 Wien Hirschengasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/bitter-suess-wiener-schokoladen-manufaktur",
+    "name": "Bitter Suess Wiener Schokoladen Manufaktur"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Dessert, Café",
+    "price_range": 2,
+    "address": "1090 Wien Alser Str. 32",
+    "url": "https://neotaste.com/de/restaurants/vienna/melkoffie-alser-strasse",
+    "name": "Melkoffie Alser Strasse"
+  },
+  {
+    "categories": "Café, Dessert, Kuchen",
+    "price_range": 2,
+    "address": "1110 Wien Landwehrstraße 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/dunkin-donuts",
+    "name": "Dunkin Donuts"
+  },
+  {
+    "rating": "4.6",
+    "reviews": "5",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1060 Wien Mariahilfer Str. 119",
+    "url": "https://neotaste.com/de/restaurants/vienna/kaisers-kaiserschmarrn-mariahilfstrasse",
+    "name": "Kaisers Kaiserschmarrn Mariahilfstrasse"
+  },
+  {
+    "categories": "Café, Dessert, Kuchen",
+    "price_range": 2,
+    "address": "1140 Wien Albert-Schweitzer-Gasse 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/dunkin-donuts-auhof-center-albert-schweitzer-gasse-6",
+    "name": "Dunkin Donuts Auhof Center Albert Schweitzer Gasse 6"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 103",
+    "url": "https://neotaste.com/de/restaurants/vienna/drei-boegen",
+    "name": "Drei Boegen"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Orientalisch",
+    "price_range": 2,
+    "address": "1010 Wien Rabensteig 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/hungry-guy",
+    "name": "Hungry Guy"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Fleisch, Dessert",
+    "price_range": 2,
+    "address": "1030 Wien Juchgasse 28",
+    "url": "https://neotaste.com/de/restaurants/vienna/schnitzlstation",
+    "name": "Schnitzlstation"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "4",
+    "categories": "Burger, Fleisch, Vegan",
+    "price_range": 2,
+    "address": "1100 Wien Am Belvedere 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/hans-im-glueck-am-belvedere-10",
+    "name": "Hans Im Glueck Am Belvedere 10"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 1,
+    "address": "1070 Wien Siebensterngasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/bukowski-the-pub",
+    "name": "Bukowski The Pub"
+  },
+  {
+    "categories": "Café, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1010 Wien Schottenring 17",
+    "url": "https://neotaste.com/de/restaurants/vienna/karma-food-boerse-wien",
+    "name": "Karma Food Boerse Wien"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Deutsch, Fleisch",
+    "price_range": 2,
+    "address": "1010 Wien Hohenstaufengasse 9",
+    "url": "https://neotaste.com/de/restaurants/vienna/servus-wien-hohenstaufengasse",
+    "name": "Servus Wien Hohenstaufengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Asiatisch, Fleisch",
+    "price_range": 2,
+    "address": "1050 Wien Rechte Wienzeile 2A",
+    "url": "https://neotaste.com/de/restaurants/vienna/karma-ramen",
+    "name": "Karma Ramen"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1120 Wien Schönbrunner Schloßstraße 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-vio-plaza",
+    "name": "Fat Monk Vio Plaza"
+  },
+  {
+    "categories": "Café, Drinks, Bowls",
+    "price_range": 1,
+    "address": "1030 Wien Rochuspl. 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/spoonfood-am-rochusplatz",
+    "name": "Spoonfood Am Rochusplatz"
+  },
+  {
+    "categories": "Fleisch, Kuchen, Seafood",
+    "price_range": 2,
+    "address": "Zirkusgasse Wien Komödiengasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/kiss-the-cook-lunchcake",
+    "name": "Kiss The Cook Lunchcake"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Bowls",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/vi-vie-gourmet-kitchen",
+    "name": "Vi Vie Gourmet Kitchen"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "6",
+    "categories": "Fleisch",
+    "price_range": 2,
+    "address": "1060 Wien Hofmühlgasse 19",
+    "url": "https://neotaste.com/de/restaurants/vienna/crazy-khinkali",
+    "name": "Crazy Khinkali"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "2334 Wien Vösendorfer Südring, Vösendorf",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-scs-voesdorf",
+    "name": "Vapiano Scs Voesdorf"
+  },
+  {
+    "categories": "Café, Drinks, Frühstück",
+    "price_range": 1,
+    "address": "1060 Wien Capistrangasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-kafka-capistrangasse-8-wien-1",
+    "name": "Cafe Kafka Capistrangasse 8 Wien 1"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1090 Wien Währinger Str. 47 / 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-waehringer-str",
+    "name": "Swing Kitchen Waehringer Str"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Drinks",
+    "price_range": 2,
+    "address": "1060 Wien Pfauengasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/drogerie-bar",
+    "name": "Drogerie Bar"
+  },
+  {
+    "rating": "4.3",
+    "reviews": "3",
+    "categories": "Pizza",
+    "price_range": 2,
+    "address": "1090 Wien Türkenstraße 27",
+    "url": "https://neotaste.com/de/restaurants/vienna/riva-tuerkenstrasse",
+    "name": "Riva Tuerkenstrasse"
+  },
+  {
+    "categories": "Vegan, Drinks, Indisch",
+    "price_range": 2,
+    "address": "1090 Wien Fluchtgasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/tulsi",
+    "name": "Tulsi"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "5",
+    "categories": "Fleisch, Seafood, Asiatisch",
+    "price_range": 2,
+    "address": "1080 Wien Strozzigasse 36",
+    "url": "https://neotaste.com/de/restaurants/vienna/heyhotpot",
+    "name": "Heyhotpot"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Dessert, Frühstück",
+    "price_range": 1,
+    "address": "1060 Wien Gumpendorfer Str. 36",
+    "url": "https://neotaste.com/de/restaurants/vienna/zinas-eatery",
+    "name": "Zinas Eatery"
+  },
+  {
+    "categories": "Burger, Fleisch",
+    "price_range": 2,
+    "address": "1010 Wien Dr. Karl Renner-Ring 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/famous-babo-am-volkstheater",
+    "name": "Famous Babo Am Volkstheater"
+  },
+  {
+    "categories": "Café, Dessert, Kuchen",
+    "price_range": 2,
+    "address": "1060 Wien Hofmühlgasse 18/5",
+    "url": "https://neotaste.com/de/restaurants/vienna/ausnahmsweise-cafe-fuer-vegane",
+    "name": "Ausnahmsweise Cafe Fuer Vegane"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "1",
+    "categories": "Burger, Fleisch",
+    "price_range": 2,
+    "address": "1100 Wien Leibnizgasse 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/munchy-vienna",
+    "name": "Munchy Vienna"
+  },
+  {
+    "categories": "Café, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1020 Wien Ausstellungsstraße 63",
+    "url": "https://neotaste.com/de/restaurants/vienna/karma-food",
+    "name": "Karma Food"
+  },
+  {
+    "categories": "Fleisch, Mexikanisch, Seafood",
+    "price_range": 2,
+    "address": "1040 Wien Favoritenstraße 56",
+    "url": "https://neotaste.com/de/restaurants/vienna/lima56",
+    "name": "Lima56"
+  },
+  {
+    "categories": "Fleisch, Burger",
+    "price_range": 2,
+    "address": "1060 Wien Otto-Bauer-Gasse 27",
+    "url": "https://neotaste.com/de/restaurants/vienna/street-grill",
+    "name": "Street Grill"
+  },
+  {
+    "categories": "Café, Dessert, Frühstück",
+    "price_range": 2,
+    "address": "1010 Wien Salzgries 9",
+    "url": "https://neotaste.com/de/restaurants/vienna/veggiezz-salzgries",
+    "name": "Veggiezz Salzgries"
+  },
+  {
+    "rating": "4.8",
+    "reviews": "4",
+    "categories": "Asiatisch, Dessert, Café",
+    "price_range": 2,
+    "address": "1070 Wien Mariahilfer Str. 100",
+    "url": "https://neotaste.com/de/restaurants/vienna/little-korae",
+    "name": "Little Korae"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1150 Wien Westbahnhof, Europaplatz 1, 1150 Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-westbahnhof",
+    "name": "Vapiano Westbahnhof"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Bowls, Asiatisch, Healthy",
+    "price_range": 2,
+    "address": "1090 Wien Währinger Str. 49",
+    "url": "https://neotaste.com/de/restaurants/vienna/kenko-style-your-own-bowl",
+    "name": "Kenko Style Your Own Bowl"
+  },
+  {
+    "rating": "4.8",
+    "reviews": "4",
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1150 Wien Europaplatz 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-westbahnhof",
+    "name": "Fat Monk Westbahnhof"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Pizza, Pasta",
+    "price_range": 2,
+    "address": "1070 Wien Burggasse 102",
+    "url": "https://neotaste.com/de/restaurants/vienna/ninos-sterneck-restaurant",
+    "name": "Ninos Sterneck Restaurant"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1090 Wien Liechtensteinstraße 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/tschak-mak",
+    "name": "Tschak Mak"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1060 Wien Magdalenenstraße 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/the-hive-bar",
+    "name": "The Hive Bar"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "2",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1010 Wien Hoher Markt 8-9",
+    "url": "https://neotaste.com/de/restaurants/vienna/caffe-a-casa-hoher-markt",
+    "name": "Caffe A Casa Hoher Markt"
+  },
+  {
+    "categories": "Fleisch, Drinks, Asiatisch",
+    "price_range": 2,
+    "address": "1010 Wien Herrengasse 6/8",
+    "url": "https://neotaste.com/de/restaurants/vienna/miss-saigon-eatery-bar",
+    "name": "Miss Saigon Eatery Bar"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "1",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1060 Wien Theobaldgasse 19, Wien, Austria",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-wien-mariahilferstrasse",
+    "name": "Vapiano Wien Mariahilferstrasse"
+  },
+  {
+    "categories": "Café, Fleisch",
+    "price_range": 2,
+    "address": "1030 Wien Radetzkypl. 2a",
+    "url": "https://neotaste.com/de/restaurants/vienna/das-klee-restaurant-cafe",
+    "name": "Das Klee Restaurant Cafe"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1080 Wien Alser Str. 19",
+    "url": "https://neotaste.com/de/restaurants/vienna/freyja-the-croissant-story",
+    "name": "Freyja The Croissant Story"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Drinks, Fleisch, Asiatisch",
+    "price_range": 2,
+    "address": "1070 Wien Zieglergasse 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/jins-zieglergasse-noodlesdumplings",
+    "name": "Jins Zieglergasse Noodlesdumplings"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Am Heumarkt 3/1",
+    "url": "https://neotaste.com/de/restaurants/vienna/drinx-vienna",
+    "name": "Drinx Vienna"
+  },
+  {
+    "rating": "4.3",
+    "reviews": "6",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1200 Wien Handelskai 94-96",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market",
+    "name": "Zushi Market"
+  },
+  {
+    "categories": "Asiatisch, Bowls, Sushi",
+    "price_range": 3,
+    "address": "1070 Wien Lerchenfelder Str. 29",
+    "url": "https://neotaste.com/de/restaurants/vienna/nana-7",
+    "name": "Nana 7"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Dessert, Café",
+    "price_range": 2,
+    "address": "1080 Wien Josefstädter Str. 81-83",
+    "url": "https://neotaste.com/de/restaurants/vienna/melkoffie-josefstaedter-strasse",
+    "name": "Melkoffie Josefstaedter Strasse"
+  },
+  {
+    "categories": "Dessert, Café",
+    "price_range": 1,
+    "address": "1080 Wien Florianigasse 12",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffee-u-boot-1080",
+    "name": "Coffee U Boot 1080"
+  },
+  {
+    "categories": "Pizza",
+    "price_range": 2,
+    "address": "1060 Wien Capistrangasse 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/daniels-bistronomie",
+    "name": "Daniels Bistronomie"
+  },
+  {
+    "categories": "Fleisch, Burger",
+    "price_range": 2,
+    "address": "1010 Wien Hoher Markt 8/9",
+    "url": "https://neotaste.com/de/restaurants/vienna/food-brother-hoher-markt-89",
+    "name": "Food Brother Hoher Markt 89"
+  },
+  {
+    "categories": "Fleisch, Asiatisch, Seafood",
+    "price_range": 2,
+    "address": "1010 Wien Hohenstaufengasse 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/mikata-izakaya",
+    "name": "Mikata Izakaya"
+  },
+  {
+    "rating": "3.0",
+    "reviews": "1",
+    "categories": "Fleisch",
+    "price_range": 2,
+    "address": "1070 Wien Zieglergasse 37",
+    "url": "https://neotaste.com/de/restaurants/vienna/zur-stadt-krems",
+    "name": "Zur Stadt Krems"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "4",
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1010 Wien Schottengasse 7, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-wien-schottentor",
+    "name": "Fat Monk Wien Schottentor"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1040 Wien Rilkepl. 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/trinity-pub-vienna",
+    "name": "Trinity Pub Vienna"
+  },
+  {
+    "categories": "Café, Kuchen",
+    "price_range": 2,
+    "address": "1090 Wien Spitalgasse 17",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffeepirates",
+    "name": "Coffeepirates"
+  },
+  {
+    "categories": "Seafood",
+    "price_range": 2,
+    "address": "1020 Wien Vorgartenmarkt Stand 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/fisch-am-markt",
+    "name": "Fisch Am Markt"
+  },
+  {
+    "categories": "Dessert, Frühstück",
+    "price_range": 2,
+    "address": "1130 Wien Hietzinger Hauptstraße 16",
+    "url": "https://neotaste.com/de/restaurants/vienna/vanillas-schoenbrunn",
+    "name": "Vanillas Schoenbrunn"
+  },
+  {
+    "categories": "Fleisch, Sushi, Asiatisch",
+    "price_range": 2,
+    "address": "1080 Wien Albertgasse 30/R1",
+    "url": "https://neotaste.com/de/restaurants/vienna/lin-asian-fusion",
+    "name": "Lin Asian Fusion"
+  },
+  {
+    "categories": "Café, Dessert, Frühstück",
+    "price_range": 2,
+    "address": "1010 Wien Freyung 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/vanillas-freyung",
+    "name": "Vanillas Freyung"
+  },
+  {
+    "categories": "Fleisch",
+    "price_range": 2,
+    "address": "1060 Wien Amerlingstraße 15",
+    "url": "https://neotaste.com/de/restaurants/vienna/brasserie-de-la-marie",
+    "name": "Brasserie De La Marie"
+  },
+  {
+    "categories": "Fleisch, Seafood",
+    "price_range": 2,
+    "address": "1010 Wien Himmelpfortgasse 15",
+    "url": "https://neotaste.com/de/restaurants/vienna/restaurant-der-kuckuck",
+    "name": "Restaurant Der Kuckuck"
+  },
+  {
+    "categories": "Café, Dessert, Frühstück",
+    "price_range": 2,
+    "address": "1200 Wien Wallensteinpl. 3/4",
+    "url": "https://neotaste.com/de/restaurants/vienna/vanillas-wallensteinplatz",
+    "name": "Vanillas Wallensteinplatz"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "4",
+    "categories": "Dessert, Schnell",
+    "price_range": 2,
+    "address": "1010 Wien Rotenturmstraße 16/18",
+    "url": "https://neotaste.com/de/restaurants/vienna/framburi-fries",
+    "name": "Framburi Fries"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1010 Wien Wipplingerstraße 32",
+    "url": "https://neotaste.com/de/restaurants/vienna/caffe-a-casa-wipplingerstr",
+    "name": "Caffe A Casa Wipplingerstr"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "6",
+    "categories": "Mexikanisch",
+    "price_range": 2,
+    "address": "1020 Wien Ferdinandstraße 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/taqueria-la-ventana",
+    "name": "Taqueria La Ventana"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1190 Wien Obkirchergasse 27",
+    "url": "https://neotaste.com/de/restaurants/vienna/caffe-a-casa-obkirchergasse",
+    "name": "Caffe A Casa Obkirchergasse"
+  },
+  {
+    "categories": "Drinks, Asiatisch, Sushi",
+    "price_range": 2,
+    "address": "1010 Wien Seilerstätte 14",
+    "url": "https://neotaste.com/de/restaurants/vienna/momoya-fusion",
+    "name": "Momoya Fusion"
+  },
+  {
+    "categories": "Café, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1070 Wien Neustiftgasse 43",
+    "url": "https://neotaste.com/de/restaurants/vienna/karma-food-neustiftgasse-wien",
+    "name": "Karma Food Neustiftgasse Wien"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1220 Wien Wagramer Straße 83-85",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-buffet-donauzentrum",
+    "name": "Zushi Market Buffet Donauzentrum"
+  },
+  {
+    "categories": "Drinks, Asiatisch, Seafood",
+    "price_range": 2,
+    "address": "1090 Wien Spitalgasse 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/uudam",
+    "name": "Uudam"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1100 Wien Gertrude-Fröhlich-Sandner-Straße 13a",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-wien-hauptbahnhof",
+    "name": "Vapiano Wien Hauptbahnhof"
+  },
+  {
+    "categories": "Café, Healthy",
+    "price_range": 2,
+    "address": "1050 Wien Franzensgasse 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/meinklang-hofladen",
+    "name": "Meinklang Hofladen"
+  },
+  {
+    "categories": "Dessert, Drinks",
+    "price_range": 2,
+    "address": "1090 Wien Spitalgasse 33",
+    "url": "https://neotaste.com/de/restaurants/vienna/wiener-genuss-knoedel",
+    "name": "Wiener Genuss Knoedel"
+  },
+  {
+    "categories": "Sushi, Asiatisch",
+    "price_range": 2,
+    "address": "1220 Wien Dr.-Adolf-Schärf-Platz 7",
+    "url": "https://neotaste.com/de/restaurants/vienna/sha-guo-22",
+    "name": "Sha Guo 22"
+  },
+  {
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1030 Wien Marxergasse 4c",
+    "url": "https://neotaste.com/de/restaurants/vienna/chi-chi-snack-bar-marxergasse-4c",
+    "name": "Chi Chi Snack Bar Marxergasse 4C"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Asiatisch, Sushi",
+    "price_range": 2,
+    "address": "1070 Wien Mariahilfer Str. 102",
+    "url": "https://neotaste.com/de/restaurants/vienna/biang2",
+    "name": "Biang2"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Drinks, Burger",
+    "price_range": 2,
+    "address": "1040 Wien Schleifmühlgasse 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/four-bells",
+    "name": "Four Bells"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Fleisch",
+    "price_range": 2,
+    "address": "1120 Wien Flurschützstraße 23",
+    "url": "https://neotaste.com/de/restaurants/vienna/berliner-babo-meidling",
+    "name": "Berliner Babo Meidling"
+  },
+  {
+    "categories": "Drinks, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1030 Wien Apostelgasse 29-31",
+    "url": "https://neotaste.com/de/restaurants/vienna/sattva-vegan",
+    "name": "Sattva Vegan"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "3",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 1D",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-landstrasser-hauptstrasse",
+    "name": "Vapiano Landstrasser Hauptstrasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Burger, Drinks",
+    "price_range": 2,
+    "address": "1010 Wien Eschenbachgasse 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-camus",
+    "name": "Cafe Camus"
+  },
+  {
+    "rating": "3.0",
+    "reviews": "2",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1010 Wien Walfischgasse 4",
+    "url": "https://neotaste.com/de/restaurants/vienna/shodai-matcha-1010",
+    "name": "Shodai Matcha 1010"
+  },
+  {
+    "categories": "Schnell , Fleisch",
+    "price_range": 2,
+    "address": "1050 Wien Reinprechtsdorfer Straße 74",
+    "url": "https://neotaste.com/de/restaurants/vienna/munchos-peri-peri-chicken",
+    "name": "Munchos Peri Peri Chicken"
+  },
+  {
+    "categories": "Drinks, Burger",
+    "price_range": 2,
+    "address": "1010 Wien Salztorgasse 4",
+    "url": "https://neotaste.com/de/restaurants/vienna/noa-restaurant-bar",
+    "name": "Noa Restaurant Bar"
+  },
+  {
+    "categories": "Italienisch",
+    "price_range": 2,
+    "address": "1020 Wien Hollandstraße 1A",
+    "url": "https://neotaste.com/de/restaurants/vienna/felice-focaccia",
+    "name": "Felice Focaccia"
+  },
+  {
+    "categories": "Drinks, Asiatisch",
+    "price_range": 2,
+    "address": "1070 Wien Burggasse 76",
+    "url": "https://neotaste.com/de/restaurants/vienna/chinabar-burggasse",
+    "name": "Chinabar Burggasse"
+  },
+  {
+    "categories": "Asiatisch, Sushi",
+    "price_range": 2,
+    "address": "1040 Wien Wiedner Hauptstraße 66",
+    "url": "https://neotaste.com/de/restaurants/vienna/yamato-kitchen-bar",
+    "name": "Yamato Kitchen Bar"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Asiatisch",
+    "price_range": 2,
+    "address": "1070 Wien Neubaugasse 70/Top 3-5",
+    "url": "https://neotaste.com/de/restaurants/vienna/lins-veggie-dumplin",
+    "name": "Lins Veggie Dumplin"
+  },
+  {
+    "rating": "3.0",
+    "reviews": "2",
+    "categories": "Drinks",
+    "price_range": 1,
+    "address": "1060 Wien Joanelligasse 7",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-einhorn",
+    "name": "Cafe Einhorn"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1120 Wien Schönbrunner Str. 230/E10",
+    "url": "https://neotaste.com/de/restaurants/vienna/chi-chi-shop-eat",
+    "name": "Chi Chi Shop Eat"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 1,
+    "address": "1010 Wien Babenbergerstraße 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/crepe-waffle-paradise",
+    "name": "Crepe Waffle Paradise"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Kuchen, Café",
+    "price_range": 1,
+    "address": "1070 Wien Kirchengasse 21",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffee-junkie-kirchengasse",
+    "name": "Coffee Junkie Kirchengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Dessert, Pizza",
+    "price_range": 2,
+    "address": "1070 Wien Burggasse 25",
+    "url": "https://neotaste.com/de/restaurants/vienna/pizzis-cream",
+    "name": "Pizzis Cream"
+  },
+  {
+    "categories": "Fleisch, Seafood",
+    "price_range": 2,
+    "address": "1010 Wien Wien Universitätsring 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/al-fayrooz",
+    "name": "Al Fayrooz"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Dessert, Drinks",
+    "price_range": 2,
+    "address": "1060 Wien Barnabitengasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/needle-vinyl-bar-33rpm",
+    "name": "Needle Vinyl Bar 33Rpm"
+  },
+  {
+    "categories": "Fleisch, Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1060 Wien Mariahilfer Str. 103",
+    "url": "https://neotaste.com/de/restaurants/vienna/ivys-pho-house",
+    "name": "Ivys Pho House"
+  },
+  {
+    "categories": "Café, Dessert, Kuchen, Healthy, Frühstück",
+    "price_range": 2,
+    "address": "1010 Wien Johannesgasse 16",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-das-hegel",
+    "name": "Cafe Das Hegel"
+  },
+  {
+    "categories": "Café, Dessert, Healthy",
+    "price_range": 2,
+    "address": "1080 Wien Skodagasse 23/2",
+    "url": "https://neotaste.com/de/restaurants/vienna/olive-coffee-coffee-beauty-conceptstore",
+    "name": "Olive Coffee Coffee Beauty Conceptstore"
+  },
+  {
+    "categories": "Fleisch",
+    "price_range": 2,
+    "address": "1020 Wien Schüttelstraße 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/samarkand-restaurant",
+    "name": "Samarkand Restaurant"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Healthy, Frühstück",
+    "price_range": 1,
+    "address": "1090 Wien Universitätsstraße 4",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-latte-art",
+    "name": "Cafe Latte Art"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1030 Wien Invalidenstraße 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-invalidenstr",
+    "name": "Swing Kitchen Invalidenstr"
+  },
+  {
+    "categories": "Burger, Pizza, Bowls",
+    "price_range": 2,
+    "address": "Andreasgasse Wien im Urban Boutique Hotel Vienna",
+    "url": "https://neotaste.com/de/restaurants/vienna/urban-bistro",
+    "name": "Urban Bistro"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1020 Wien Prater 74",
+    "url": "https://neotaste.com/de/restaurants/vienna/food-story",
+    "name": "Food Story"
+  },
+  {
+    "categories": "Fleisch, Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Hintere Zollamtsstraße 2B",
+    "url": "https://neotaste.com/de/restaurants/vienna/schau-kuchl",
+    "name": "Schau Kuchl"
+  },
+  {
+    "rating": "4.8",
+    "reviews": "4",
+    "categories": "Spanisch/Tapas",
+    "price_range": 2,
+    "address": "Ob. Wien auf der Donaukanalpromenade",
+    "url": "https://neotaste.com/de/restaurants/vienna/tschak-am-donaukanal",
+    "name": "Tschak Am Donaukanal"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Dessert, Drinks",
+    "price_range": 2,
+    "address": "1170 Wien Kalvarienberggasse 32",
+    "url": "https://neotaste.com/de/restaurants/vienna/grey-kaffee",
+    "name": "Grey Kaffee"
+  },
+  {
+    "categories": "Burger, Drinks",
+    "price_range": 2,
+    "address": "1190 Wien Döblinger Hauptstraße 23-25",
+    "url": "https://neotaste.com/de/restaurants/vienna/berliner-babo-doebling",
+    "name": "Berliner Babo Doebling"
+  },
+  {
+    "categories": "Burger, Drinks, Fleisch",
+    "price_range": 2,
+    "address": "1050 Wien Spengergasse 27",
+    "url": "https://neotaste.com/de/restaurants/vienna/bytheway-restaurantburger-bar",
+    "name": "Bytheway Restaurantburger Bar"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Fleisch, Drinks",
+    "price_range": 2,
+    "address": "1040 Wien Favoritenstraße 33",
+    "url": "https://neotaste.com/de/restaurants/vienna/cuccu-grill-steak-doener",
+    "name": "Cuccu Grill Steak Doener"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 1,
+    "address": "1070 Wien Siebensterngasse 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/kreisky",
+    "name": "Kreisky"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1020 Wien Lilienbrunngasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/la-mesa-lilienbrunngasse-3",
+    "name": "La Mesa Lilienbrunngasse 3"
+  },
+  {
+    "categories": "Seafood, Drinks, Fleisch",
+    "price_range": 2,
+    "address": "1030 Wien Juchgasse 24",
+    "url": "https://neotaste.com/de/restaurants/vienna/restaurant-das-essen-fm",
+    "name": "Restaurant Das Essen Fm"
+  },
+  {
+    "categories": "Café, Drinks",
+    "price_range": 2,
+    "address": "1050 Wien Ziegelofengasse 29",
+    "url": "https://neotaste.com/de/restaurants/vienna/omnia-tea-vienna",
+    "name": "Omnia Tea Vienna"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1150 Wien Gablenzg. 5-13/ ET5, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-lugner-city-kiosk",
+    "name": "Zushi Market Lugner City Kiosk"
+  },
+  {
+    "categories": "Café, Drinks, Bowls",
+    "price_range": 1,
+    "address": "1020 Wien Walcherstraße 1a",
+    "url": "https://neotaste.com/de/restaurants/vienna/spoonfood-austria-campus",
+    "name": "Spoonfood Austria Campus"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1100 Wien Am Belvedere 10/Top 2, 1100 Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-quartier-belvedere",
+    "name": "Fat Monk Quartier Belvedere"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1020 Wien Praterstraße 24, 1020 Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-praterstr",
+    "name": "Vapiano Praterstr"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1070 Wien Lindengasse 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/chapter-seven",
+    "name": "Chapter Seven"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 1,
+    "address": "1040 Wien Margaretenstraße 42",
+    "url": "https://neotaste.com/de/restaurants/vienna/castillos-eis-bar",
+    "name": "Castillos Eis Bar"
+  },
+  {
+    "categories": "Healthy, Bowls",
+    "price_range": 1,
+    "address": "1060 Wien Esterházygasse 15",
+    "url": "https://neotaste.com/de/restaurants/vienna/topf-deckel-esterhazygass",
+    "name": "Topf Deckel Esterhazygass"
+  },
+  {
+    "categories": "Fleisch, Drinks, Asiatisch",
+    "price_range": 2,
+    "address": "1030 Wien Hörnesgasse 17",
+    "url": "https://neotaste.com/de/restaurants/vienna/buivien-street",
+    "name": "Buivien Street"
+  },
+  {
+    "categories": "Asiatisch, Sushi",
+    "price_range": 1,
+    "address": "1060 Wien Gumpendorfer Str. 36",
+    "url": "https://neotaste.com/de/restaurants/vienna/oishi-sushi",
+    "name": "Oishi Sushi"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Burger, Pizza",
+    "price_range": 2,
+    "address": "1030 Wien Hainburger Straße 55",
+    "url": "https://neotaste.com/de/restaurants/vienna/block-gourmet",
+    "name": "Block Gourmet"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Spanisch/Tapas, Asiatisch",
+    "price_range": 2,
+    "address": "1010 Wien Hoher Markt 8/9",
+    "url": "https://neotaste.com/de/restaurants/vienna/kong-taiwanese-bistro",
+    "name": "Kong Taiwanese Bistro"
+  },
+  {
+    "categories": "Healthy, Bowls",
+    "price_range": 1,
+    "address": "1010 Wien Judengasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/topf-deckel-judengasse",
+    "name": "Topf Deckel Judengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert, Drinks, Kuchen",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 23",
+    "url": "https://neotaste.com/de/restaurants/vienna/kashtan-landstrasser-hauptstrasse",
+    "name": "Kashtan Landstrasser Hauptstrasse"
+  },
+  {
+    "categories": "Kuchen, Café, Dessert, Drinks",
+    "price_range": 2,
+    "address": "1010 Wien Goldschmiedgasse 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/kashtan",
+    "name": "Kashtan"
+  },
+  {
+    "categories": "Café",
+    "price_range": 2,
+    "address": "1090 Wien Spitalgasse 15",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffeepirates-bakery",
+    "name": "Coffeepirates Bakery"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Spanisch/Tapas",
+    "price_range": 2,
+    "address": "1020 Wien Schrottgießergasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/empanadas-blitz",
+    "name": "Empanadas Blitz"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Healthy, Bowls",
+    "price_range": 1,
+    "address": "1010 Wien Schottengasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/topf-deckel-schottengasse",
+    "name": "Topf Deckel Schottengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Drinks",
+    "price_range": 2,
+    "address": "1050 Wien Schönbrunner Str. 75",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffee-sheep-wien",
+    "name": "Coffee Sheep Wien"
+  },
+  {
+    "categories": "Fleisch",
+    "price_range": 1,
+    "address": "1070 Wien Stiftgasse 5-7 In der Wipark Garage",
+    "url": "https://neotaste.com/de/restaurants/vienna/hermanns-wuerstelstand",
+    "name": "Hermanns Wuerstelstand"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Bowls, Healthy, Burger, Fleisch, Event Deal",
+    "price_range": 2,
+    "address": "1010 Wien Judengasse 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/schachtelwirt",
+    "name": "Schachtelwirt"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Dessert, Café",
+    "price_range": 1,
+    "address": "1050 Wien Schönbrunner Str. 14",
+    "url": "https://neotaste.com/de/restaurants/vienna/marin-espressobar",
+    "name": "Marin Espressobar"
+  },
+  {
+    "categories": "Dessert, Café",
+    "price_range": 1,
+    "address": "1080 Wien Alser Str. 49",
+    "url": "https://neotaste.com/de/restaurants/vienna/hey-my-coffee",
+    "name": "Hey My Coffee"
+  },
+  {
+    "categories": "Fleisch, Seafood",
+    "price_range": 2,
+    "address": "Leonard-Bernstein-Straße Wien Saturn Tower",
+    "url": "https://neotaste.com/de/restaurants/vienna/kiss-the-cook-tower",
+    "name": "Kiss The Cook Tower"
+  },
+  {
+    "categories": "Pizza, Italienisch",
+    "price_range": 2,
+    "address": "1030 Wien Kleistgasse 20",
+    "url": "https://neotaste.com/de/restaurants/vienna/i-bellissimi",
+    "name": "I Bellissimi"
+  },
+  {
+    "categories": "Drinks, Burger",
+    "price_range": 2,
+    "address": "1010 Wien Schwarzenbergpl. 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/falcos-restaurant-bar-club",
+    "name": "Falcos Restaurant Bar Club"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1090 Wien Alser Str. 30",
+    "url": "https://neotaste.com/de/restaurants/vienna/denami",
+    "name": "Denami"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1040 Wien Wiedner Gürtel 14",
+    "url": "https://neotaste.com/de/restaurants/vienna/farmacia-1040",
+    "name": "Farmacia 1040"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Healthy",
+    "price_range": 2,
+    "address": "1090 Wien Maria-Theresien-Straße 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/superfood-deli-1090",
+    "name": "Superfood Deli 1090"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Asiatisch, Seafood, Sushi",
+    "price_range": 2,
+    "address": "1010 Wien Wollzeile 31",
+    "url": "https://neotaste.com/de/restaurants/vienna/reiskorn-wollzeile",
+    "name": "Reiskorn Wollzeile"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Bowls, Healthy",
+    "price_range": 2,
+    "address": "1090 Wien Spitalgasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/juice-factory-spitalgasse",
+    "name": "Juice Factory Spitalgasse"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1090 Wien Servitengasse 4A",
+    "url": "https://neotaste.com/de/restaurants/vienna/caffe-a-casa-servitengasse",
+    "name": "Caffe A Casa Servitengasse"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 2,
+    "address": "1220 Wien Donau-City-Straße 7, 1220 Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/fat-monk-wien-dc-tower",
+    "name": "Fat Monk Wien Dc Tower"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "3",
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1220 Wien Wagramer Str. 79, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-wien-donau-zentrum",
+    "name": "Vapiano Wien Donau Zentrum"
+  },
+  {
+    "categories": "Fleisch, Mexikanisch, Bowls",
+    "price_range": 2,
+    "address": "1060 Wien Pfauengasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/spacebowls-mutterschiff",
+    "name": "Spacebowls Mutterschiff"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Drinks, Frühstück",
+    "price_range": 2,
+    "address": "1010 Wien Stephansplatz 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/zwischengang-cafe-bar-restaurant",
+    "name": "Zwischengang Cafe Bar Restaurant"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1020 Wien Lilienbrunngasse 5/1A",
+    "url": "https://neotaste.com/de/restaurants/vienna/dulceria-chocolates",
+    "name": "Dulceria Chocolates"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1070 Wien Schottenfeldgasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-schottenfeldgasse",
+    "name": "Swing Kitchen Schottenfeldgasse"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1070 Wien Burggasse 44",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-roza",
+    "name": "Cafe Roza"
+  },
+  {
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 1B",
+    "url": "https://neotaste.com/de/restaurants/vienna/chi-chi-snack-bar",
+    "name": "Chi Chi Snack Bar"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1080 Wien Josefstädter Str. 73",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-josefstaedterstr",
+    "name": "Swing Kitchen Josefstaedterstr"
+  },
+  {
+    "categories": "Fleisch, Drinks",
+    "price_range": 2,
+    "address": "1080 Wien Piaristengasse 15/2",
+    "url": "https://neotaste.com/de/restaurants/vienna/halmi",
+    "name": "Halmi"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Burger, Vegan",
+    "price_range": 2,
+    "address": "1040 Wien Operngasse 24",
+    "url": "https://neotaste.com/de/restaurants/vienna/swing-kitchen-operngasse",
+    "name": "Swing Kitchen Operngasse"
+  },
+  {
+    "categories": "Café, Drinks",
+    "price_range": 2,
+    "address": "1090 Wien Alserbachstraße 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/el-cafe-roestatelier-cafe",
+    "name": "El Cafe Roestatelier Cafe"
+  },
+  {
+    "categories": "Café, Drinks",
+    "price_range": 1,
+    "address": "1030 Wien Sechskrügelgasse 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/stamm-cafe-wien",
+    "name": "Stamm Cafe Wien"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Kuchen",
+    "price_range": 1,
+    "address": "1040 Wien Schönburgstraße 36/Tür 8-9/ Ecklokale",
+    "url": "https://neotaste.com/de/restaurants/vienna/rekaffee",
+    "name": "Rekaffee"
+  },
+  {
+    "categories": "Burger",
+    "price_range": 1,
+    "address": "1030 Wien Erdbergstraße 120A",
+    "url": "https://neotaste.com/de/restaurants/vienna/cheat-day",
+    "name": "Cheat Day"
+  },
+  {
+    "categories": "Burger",
+    "price_range": 2,
+    "address": "1090 Wien Kolingasse 7",
+    "url": "https://neotaste.com/de/restaurants/vienna/chill-bar-lounge",
+    "name": "Chill Bar Lounge"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1080 Wien Kochgasse 18",
+    "url": "https://neotaste.com/de/restaurants/vienna/kleines-wiener-cafe-toluka-kaffee",
+    "name": "Kleines Wiener Cafe Toluka Kaffee"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Rennweg 68",
+    "url": "https://neotaste.com/de/restaurants/vienna/coopers-no1",
+    "name": "Coopers No1"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Pizza, Italienisch",
+    "price_range": 2,
+    "address": "1030 Wien Erdbergstraße 101",
+    "url": "https://neotaste.com/de/restaurants/vienna/pi-pa-po-italienisches-restaurant",
+    "name": "Pi Pa Po Italienisches Restaurant"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Burger, Fleisch, Seafood",
+    "price_range": 2,
+    "address": "Wagramer Wien The Kitchen",
+    "url": "https://neotaste.com/de/restaurants/vienna/olive-eat-drink-donauzentrum",
+    "name": "Olive Eat Drink Donauzentrum"
+  },
+  {
+    "categories": "Fleisch, Bowls, Orientalisch",
+    "price_range": 2,
+    "address": "1060 Wien Naschmarkt 671",
+    "url": "https://neotaste.com/de/restaurants/vienna/orient-occident",
+    "name": "Orient Occident"
+  },
+  {
+    "categories": "Drinks, Orientalisch",
+    "price_range": 2,
+    "address": "1070 Wien Seidengasse 44",
+    "url": "https://neotaste.com/de/restaurants/vienna/la-madia-restaurant",
+    "name": "La Madia Restaurant"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Pizza, Italienisch",
+    "price_range": 2,
+    "address": "1070 Wien Schottenfeldgasse 97",
+    "url": "https://neotaste.com/de/restaurants/vienna/mamma-anna",
+    "name": "Mamma Anna"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Dessert, Drinks",
+    "price_range": 2,
+    "address": "1010 Wien Färbergasse 8",
+    "url": "https://neotaste.com/de/restaurants/vienna/needle-vinyl-bar",
+    "name": "Needle Vinyl Bar"
+  },
+  {
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1030 Wien Krieglergasse 6",
+    "url": "https://neotaste.com/de/restaurants/vienna/kinderspiel-das-familiencafe",
+    "name": "Kinderspiel Das Familiencafe"
+  },
+  {
+    "categories": "Bowls, Vegan, Healthy",
+    "price_range": 2,
+    "address": "1060 Wien Gumpendorfer Str. 40",
+    "url": "https://neotaste.com/de/restaurants/vienna/lil-healthy-eating",
+    "name": "Lil Healthy Eating"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Dessert, Drinks",
+    "price_range": 1,
+    "address": "1010 Wien Untergrundbahn Station Schottentor 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/festa-comida-alegria-festa-fiesta",
+    "name": "Festa Comida Alegria Festa Fiesta"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert",
+    "price_range": 1,
+    "address": "1060 Wien Mariahilfer Str. 49",
+    "url": "https://neotaste.com/de/restaurants/vienna/shodai-matcha-1060",
+    "name": "Shodai Matcha 1060"
+  },
+  {
+    "categories": "Café, Vegan, Kuchen",
+    "price_range": 2,
+    "address": "1080 Wien Josefstädter Str. 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-eiles",
+    "name": "Cafe Eiles"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1060 Wien Stiegengasse 16",
+    "url": "https://neotaste.com/de/restaurants/vienna/gaumengold-feinkost",
+    "name": "Gaumengold Feinkost"
+  },
+  {
+    "categories": "Drinks, Pizza, Pasta",
+    "price_range": 2,
+    "address": "1050 Wien Castelligasse 10",
+    "url": "https://neotaste.com/de/restaurants/vienna/pizzeria-voliamo",
+    "name": "Pizzeria Voliamo"
+  },
+  {
+    "categories": "Burger, Fleisch, Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Salesianergasse 17",
+    "url": "https://neotaste.com/de/restaurants/vienna/satchmo-burritos-brger",
+    "name": "Satchmo Burritos Brger"
+  },
+  {
+    "categories": "Fleisch, Orientalisch",
+    "price_range": 2,
+    "address": "1030 Wien Rennweg 92",
+    "url": "https://neotaste.com/de/restaurants/vienna/restaurant-babylon",
+    "name": "Restaurant Babylon"
+  },
+  {
+    "rating": "4.0",
+    "reviews": "1",
+    "categories": "Café, Kuchen",
+    "price_range": 2,
+    "address": "1020 Wien Vorgartenmarkt Stand 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/ellas-twins",
+    "name": "Ellas Twins"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1010 Wien Wollzeile 25",
+    "url": "https://neotaste.com/de/restaurants/vienna/leo-hillinger-wineshop-bar-wien-wollzeile",
+    "name": "Leo Hillinger Wineshop Bar Wien Wollzeile"
+  },
+  {
+    "categories": "Pizza, Pasta, Italienisch",
+    "price_range": 2,
+    "address": "1060 Wien Brückengasse 11",
+    "url": "https://neotaste.com/de/restaurants/vienna/don-camillo-brueckengasse",
+    "name": "Don Camillo Brueckengasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1020 Wien Praterstraße 9",
+    "url": "https://neotaste.com/de/restaurants/vienna/pigalle",
+    "name": "Pigalle"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Bowls, Healthy",
+    "price_range": 2,
+    "address": "1180 Wien Währinger Str. 108",
+    "url": "https://neotaste.com/de/restaurants/vienna/juice-factory-waehringerstr",
+    "name": "Juice Factory Waehringerstr"
+  },
+  {
+    "categories": "Bowls, Orientalisch, Healthy",
+    "price_range": 2,
+    "address": "1090 Wien Währinger Str. 55",
+    "url": "https://neotaste.com/de/restaurants/vienna/momens",
+    "name": "Momens"
+  },
+  {
+    "categories": "Drinks, Café, Frühstück",
+    "price_range": 2,
+    "address": "1050 Wien Schönbrunner Str. 58",
+    "url": "https://neotaste.com/de/restaurants/vienna/wiener-chic",
+    "name": "Wiener Chic"
+  },
+  {
+    "categories": "Fleisch",
+    "price_range": 1,
+    "address": "1080 Wien Alser Str. 57",
+    "url": "https://neotaste.com/de/restaurants/vienna/schnitzelhof-wien",
+    "name": "Schnitzelhof Wien"
+  },
+  {
+    "categories": "Pizza",
+    "price_range": 2,
+    "address": "1090 Wien Währinger Str. 21",
+    "url": "https://neotaste.com/de/restaurants/vienna/saegewerk",
+    "name": "Saegewerk"
+  },
+  {
+    "categories": "Café",
+    "price_range": 1,
+    "address": "1050 Wien Pilgramgasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/coffee-junkie-pilgramgasse",
+    "name": "Coffee Junkie Pilgramgasse"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Ungargasse 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/latidos",
+    "name": "Latidos"
+  },
+  {
+    "categories": "Café, Drinks",
+    "price_range": 2,
+    "address": "1080 Wien Landesgerichtsstraße 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/cafe-rathaus",
+    "name": "Cafe Rathaus"
+  },
+  {
+    "categories": "Café, Dessert, Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Rennweg 86/1",
+    "url": "https://neotaste.com/de/restaurants/vienna/artemis-cafe-patisserie",
+    "name": "Artemis Cafe Patisserie"
+  },
+  {
+    "categories": "Drinks, Fleisch",
+    "price_range": 2,
+    "address": "1080 Wien Bennopl. 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/restaurant-prinz-ferdinand",
+    "name": "Restaurant Prinz Ferdinand"
+  },
+  {
+    "categories": "Pizza, Pasta, Italienisch",
+    "price_range": 2,
+    "address": "1060 Wien Barnabitengasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/frascati-pizzeria-gelateria",
+    "name": "Frascati Pizzeria Gelateria"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1090 Wien Garnisongasse 7/6",
+    "url": "https://neotaste.com/de/restaurants/vienna/pauls-dorato",
+    "name": "Pauls Dorato"
+  },
+  {
+    "categories": "Asiatisch",
+    "price_range": 2,
+    "address": "1060 Wien Webgasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/nam-nam-webgasse",
+    "name": "Nam Nam Webgasse"
+  },
+  {
+    "categories": "Fleisch, Asiatisch",
+    "price_range": 2,
+    "address": "1060 Wien Gumpendorfer Str. 97",
+    "url": "https://neotaste.com/de/restaurants/vienna/le-pho",
+    "name": "Le Pho"
+  },
+  {
+    "categories": "Drinks, Pizza",
+    "price_range": 2,
+    "address": "1090 Wien Lackierergasse 5",
+    "url": "https://neotaste.com/de/restaurants/vienna/sly-arny",
+    "name": "Sly Arny"
+  },
+  {
+    "categories": "Italienisch",
+    "price_range": 2,
+    "address": "1150 Wien Märzstraße 13",
+    "url": "https://neotaste.com/de/restaurants/vienna/allegro",
+    "name": "Allegro"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Rennweg 72",
+    "url": "https://neotaste.com/de/restaurants/vienna/diesels-die-bar-im-dritten",
+    "name": "Diesels Die Bar Im Dritten"
+  },
+  {
+    "categories": "Sushi, Asiatisch, Seafood",
+    "price_range": 2,
+    "address": "1030 Wien Landstraßer Hauptstraße 1b",
+    "url": "https://neotaste.com/de/restaurants/vienna/sushi-cross",
+    "name": "Sushi Cross"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1090 Wien Liechtensteinstraße 104",
+    "url": "https://neotaste.com/de/restaurants/vienna/nimonkz-b-nepalese-pub",
+    "name": "Nimonkz B Nepalese Pub"
+  },
+  {
+    "categories": "Fleisch, Seafood, Spanisch/Tapas",
+    "price_range": 2,
+    "address": "1080 Wien Lerchenfelder Str. 60",
+    "url": "https://neotaste.com/de/restaurants/vienna/taberna-de-la-mancha",
+    "name": "Taberna De La Mancha"
+  },
+  {
+    "rating": "4.8",
+    "reviews": "5",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1020 Wien Obere Augartenstraße 74",
+    "url": "https://neotaste.com/de/restaurants/vienna/melkoffie-tabor-strasse",
+    "name": "Melkoffie Tabor Strasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert, Kuchen",
+    "price_range": 2,
+    "address": "1030 Wien Ungargasse 56",
+    "url": "https://neotaste.com/de/restaurants/vienna/jack-and-the-coffee-bean",
+    "name": "Jack And The Coffee Bean"
+  },
+  {
+    "categories": "Pizza, Pasta, Italienisch",
+    "price_range": 2,
+    "address": "1020 Wien Olympiapl. 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/don-camillo-olympiaplatz",
+    "name": "Don Camillo Olympiaplatz"
+  },
+  {
+    "categories": "Pasta, Drinks, Pizza",
+    "price_range": 2,
+    "address": "1120 Wien Schönbrunner Schloßstraße 2/TOP 1 (EG.01, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/vapiano-vio-plaza",
+    "name": "Vapiano Vio Plaza"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Asiatisch",
+    "price_range": 2,
+    "address": "1070 Wien Wien Schottenfeldgasse 2-4",
+    "url": "https://neotaste.com/de/restaurants/vienna/king-tao-traditionell",
+    "name": "King Tao Traditionell"
+  },
+  {
+    "categories": "Café, Frühstück",
+    "price_range": 1,
+    "address": "1080 Wien Wien Josefstädter Str. 60",
+    "url": "https://neotaste.com/de/restaurants/vienna/knockbox-josefstaedter-strasse",
+    "name": "Knockbox Josefstaedter Strasse"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Schnell , Drinks",
+    "price_range": 2,
+    "address": "1030 Wien Wien Fiakerpl. 1",
+    "url": "https://neotaste.com/de/restaurants/vienna/coyote",
+    "name": "Coyote"
+  },
+  {
+    "categories": "Fleisch, Vegan, Asiatisch",
+    "price_range": 2,
+    "address": "1060 Wien Wien Linke Wienzeile 44",
+    "url": "https://neotaste.com/de/restaurants/vienna/china-restaurant-zhong-xin",
+    "name": "China Restaurant Zhong Xin"
+  },
+  {
+    "categories": "Deutsch, Drinks",
+    "price_range": 2,
+    "address": "1070 Wien Wien Spittelberggasse 3",
+    "url": "https://neotaste.com/de/restaurants/vienna/horvath-weinstueberl",
+    "name": "Horvath Weinstueberl"
+  },
+  {
+    "categories": "Drinks",
+    "price_range": 2,
+    "address": "1080 Wien Wien Piaristengasse 41",
+    "url": "https://neotaste.com/de/restaurants/vienna/weinraum",
+    "name": "Weinraum"
+  },
+  {
+    "categories": "Café",
+    "price_range": 4,
+    "address": "1090 Wien Spitalgasse 1a",
+    "url": "https://neotaste.com/de/restaurants/vienna/kaffee-kultur",
+    "name": "Kaffee Kultur"
+  },
+  {
+    "categories": "Bowls",
+    "price_range": 3,
+    "address": "1040 Wien Favoritenstraße 40",
+    "url": "https://neotaste.com/de/restaurants/vienna/la-petite-pause",
+    "name": "La Petite Pause"
+  },
+  {
+    "categories": "Vegan, Café, Asiatisch",
+    "price_range": 2,
+    "address": "1070 Wien Maria Kuhn Gasse 6, Lokal 2/Stiege 3, 1100 Wien, Austria",
+    "url": "https://neotaste.com/de/restaurants/vienna/loving-hut-vienna-neubau",
+    "name": "Loving Hut Vienna Neubau"
+  },
+  {
+    "categories": "Dessert, Café",
+    "price_range": 1,
+    "address": "1090 Wien Universitätsstraße 2",
+    "url": "https://neotaste.com/de/restaurants/vienna/top-02-patisserie-glacerie-vienna",
+    "name": "Top 02 Patisserie Glacerie Vienna"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "1110 Wien Simmeringer Hauptstraße 96A/Top 106, Wien",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-zentrum-simmering-take-away-kiosk",
+    "name": "Zushi Market Zentrum Simmering Take Away Kiosk"
+  },
+  {
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "2334 Wien SCS Shopping City Süd, Triester Str., Vösendorf",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-scs-multiplex-take-away-kiosk",
+    "name": "Zushi Market Scs Multiplex Take Away Kiosk"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Asiatisch, Bowls",
+    "price_range": 2,
+    "address": "2334 Wien Shopping City Süd, G218, Vösendorf",
+    "url": "https://neotaste.com/de/restaurants/vienna/zushi-market-scs-voesendorf",
+    "name": "Zushi Market Scs Voesendorf"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "1",
+    "categories": "Café, Dessert",
+    "price_range": 1,
+    "address": "2334 Wien Vösendorfer Südring, 2334 Vösendorf",
+    "url": "https://neotaste.com/de/restaurants/vienna/kaisers-kaiserschmarrn-scs",
+    "name": "Kaisers Kaiserschmarrn Scs"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1220 Wien Wagramer Straße 94",
+    "url": "https://neotaste.com/de/restaurants/vienna/kaisers-kaiserschmarrn-wagramer-strasse-94",
+    "name": "Kaisers Kaiserschmarrn Wagramer Strasse 94"
+  },
+  {
+    "rating": "5.0",
+    "reviews": "2",
+    "categories": "Café, Dessert",
+    "price_range": 2,
+    "address": "1200 Wien Handelskai 94",
+    "url": "https://neotaste.com/de/restaurants/vienna/kaisers",
+    "name": "Kaisers"
+  }
+]
