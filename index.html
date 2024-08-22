@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,41 +12,41 @@
         <h1 class="text-4xl font-bold mb-8 text-center text-indigo-700">Vienna Restaurants Explorer</h1>
         
         <div class="mb-8 bg-white rounded-lg shadow-md p-6">
-            <h2 class="text-2xl font-semibold mb-4 text-indigo-600">Filters</h2>
+            <h2 class="text-2xl font-semibold mb-4 text-indigo-600">Filter</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 <div>
-                    <label for="category-filter" class="block text-sm font-medium text-gray-700 mb-1">Category</label>
+                    <label for="category-filter" class="block text-sm font-medium text-gray-700 mb-1">Kategorie</label>
                     <select id="category-filter" class="w-full p-2 border border-gray-300 rounded-md">
-                        <option value="">All Categories</option>
+                        <option value="">Alle Kategorien</option>
                     </select>
                 </div>
                 <div>
-                    <label for="price-filter" class="block text-sm font-medium text-gray-700 mb-1">Price Range</label>
+                    <label for="price-filter" class="block text-sm font-medium text-gray-700 mb-1">Preisklasse</label>
                     <select id="price-filter" class="w-full p-2 border border-gray-300 rounded-md">
-                        <option value="">All Prices</option>
+                        <option value="">Alle Preise</option>
                         <option value="1">€</option>
                         <option value="2">€€</option>
                         <option value="3">€€€</option>
                     </select>
                 </div>
                 <div>
-                    <label for="rating-filter" class="block text-sm font-medium text-gray-700 mb-1">Minimum Rating</label>
-                    <input type="number" id="rating-filter" min="0" max="5" step="0.1" class="w-full p-2 border border-gray-300 rounded-md" placeholder="e.g., 4.5">
+                    <label for="rating-filter" class="block text-sm font-medium text-gray-700 mb-1">Mindestbewertung</label>
+                    <input type="number" id="rating-filter" min="0" max="5" step="0.1" class="w-full p-2 border border-gray-300 rounded-md" placeholder="z.B. 4.5">
                 </div>
                 <div>
-                    <label for="postal-code-filter" class="block text-sm font-medium text-gray-700 mb-1">Postal Code</label>
+                    <label for="postal-code-filter" class="block text-sm font-medium text-gray-700 mb-1">Postleitzahl</label>
                     <select id="postal-code-filter" class="w-full p-2 border border-gray-300 rounded-md">
-                        <option value="">All Postal Codes</option>
+                        <option value="">Alle Postleitzahlen</option>
                     </select>
                 </div>
             </div>
             <div class="mt-4">
-                <button id="show-map-btn" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition">Show All on Map</button>
+                <button id="show-map-btn" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition">Alle auf Karte anzeigen</button>
             </div>
         </div>
 
         <div id="restaurants-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Restaurant cards will be inserted here -->
+            <!-- Restaurant-Karten werden hier eingefügt -->
         </div>
     </div>
 
@@ -2077,26 +2077,29 @@
   }
 ];
 
-        function getPostalCode(address) {
+
+function getPostalCode(address) {
             const match = address.match(/(\d{4})/);
-            return match ? match[1] : 'Unknown';
+            return match ? match[1] : 'Unbekannt';
         }
 
         function createRestaurantCard(restaurant) {
             const postalCode = getPostalCode(restaurant.address);
             const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}`;
             const priceRange = '€'.repeat(restaurant.price_range);
+            const rating = restaurant.rating ? restaurant.rating : 'Keine Bewertung';
+            const reviews = restaurant.reviews ? `(${restaurant.reviews} Bewertungen)` : '';
             
             return `
                 <div class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:scale-105">
                     <div class="p-6">
                         <h2 class="text-xl font-semibold mb-2 text-indigo-600">${restaurant.name}</h2>
                         <p class="text-sm text-gray-600 mb-2"><i class="fas fa-map-marker-alt mr-2"></i>${restaurant.address}</p>
-                        <p class="text-sm mb-2"><i class="fas fa-star text-yellow-400 mr-2"></i>${restaurant.rating} (${restaurant.reviews} reviews)</p>
+                        <p class="text-sm mb-2"><i class="fas fa-star text-yellow-400 mr-2"></i>${rating} ${reviews}</p>
                         <p class="text-sm mb-2"><i class="fas fa-utensils mr-2"></i>${restaurant.categories}</p>
                         <p class="text-sm mb-4"><i class="fas fa-euro-sign mr-2"></i>${priceRange}</p>
                     </div>
-                    <a href="${mapUrl}" target="_blank" class="block bg-indigo-600 text-white text-center py-3 hover:bg-indigo-700 transition">View on Map</a>
+                    <a href="${mapUrl}" target="_blank" class="block bg-indigo-600 text-white text-center py-3 hover:bg-indigo-700 transition">Auf Karte anzeigen</a>
                 </div>
             `;
         }
@@ -2144,7 +2147,7 @@
             const filteredRestaurants = restaurants.filter(restaurant => {
                 const categoryMatch = !categoryFilter || restaurant.categories.includes(categoryFilter);
                 const priceMatch = !priceFilter || restaurant.price_range === parseInt(priceFilter);
-                const ratingMatch = parseFloat(restaurant.rating) >= ratingFilter;
+                const ratingMatch = !restaurant.rating || parseFloat(restaurant.rating) >= ratingFilter;
                 const postalCodeMatch = !postalCodeFilter || getPostalCode(restaurant.address) === postalCodeFilter;
                 return categoryMatch && priceMatch && ratingMatch && postalCodeMatch;
             });
@@ -2154,9 +2157,21 @@
         }
 
         function showAllOnMap(filteredRestaurants) {
-            const addresses = filteredRestaurants.map(restaurant => restaurant.address).join('|');
-            const mapUrl = `https://www.google.com/maps/search/${encodeURIComponent(addresses)}`;
+            const MAX_LOCATIONS = 50;
+            const addresses = filteredRestaurants
+                .slice(0, MAX_LOCATIONS)
+                .map(restaurant => encodeURIComponent(restaurant.address));
+            
+            const baseUrl = "https://www.google.com/maps/search/?api=1&query=";
+            const searchQuery = addresses.join("%7C");
+            
+            const mapUrl = baseUrl + searchQuery;
+            
             window.open(mapUrl, '_blank');
+
+            if (filteredRestaurants.length > MAX_LOCATIONS) {
+                alert(`Es werden die ersten ${MAX_LOCATIONS} von ${filteredRestaurants.length} gefilterten Restaurants auf der Karte angezeigt.`);
+            }
         }
 
         // Initialize
